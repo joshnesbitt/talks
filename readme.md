@@ -4,6 +4,7 @@
 ## Contents
 
 
+* [Hey!Stac Refreshed](https://github.com/joshnesbitt/talks/raw/master/talks/hey-stac-refreshed.pdf)
 * [Process management with Foreman](https://github.com/joshnesbitt/talks/raw/master/talks/process-management-with-foreman.pdf)
 
 
