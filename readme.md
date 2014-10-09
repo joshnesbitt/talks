@@ -20,7 +20,7 @@ A brief overview of [Foreman](http://ddollar.github.io/foreman) and how to use i
 
 _22nd July, 2014_
 
-A recap on the first year of the Hey! events as well as an announcement about what to expect surrounding the new format.
+A recap on the first year of the Hey! events as well as an announcement about what to expect surrounding the new Lecture format.
 
 * [Slides](https://github.com/joshnesbitt/talks/raw/master/talks/hey-stac-refreshed.pdf)
 * [Info](http://hey.wearestac.com/talks/hey-stac-refreshed)
