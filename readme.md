@@ -15,7 +15,7 @@ A brief overview of [Foreman](http://ddollar.github.io/foreman) and how to use i
 * [Info](http://parall.ax/blog/view/3098/aws-leeds-user-group-2-update)
 
 
-## Hey!Stac Refreshed
+## Hey!Stac refreshed
 
 
 _22nd July, 2014_
