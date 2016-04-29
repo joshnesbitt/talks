@@ -1,8 +1,5 @@
 # Talks
 
-
-## Contents
-
 * [Introduction](#introduction)
 * [Content](#content)
 
